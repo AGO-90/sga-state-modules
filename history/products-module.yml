@@ -1,7 +1,7 @@
 url: https://products-module-java.herokuapp.com/api/v1/test/ping
 status: up
 code: 200
-responseTime: 30
-lastUpdated: 2022-02-22T23:19:22.730Z
+responseTime: 190
+lastUpdated: 2022-02-23T23:19:36.600Z
 startTime: Fri Feb 04 2022 04:19:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

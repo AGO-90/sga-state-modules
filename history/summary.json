@@ -4,7 +4,7 @@
     "url": "https://products-module-java.herokuapp.com/api/v1/test/ping",
     "icon": "https://favicons.githubusercontent.com/products-module-java.herokuapp.com",
     "slug": "products-module",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 218,
     "timeMonth": 244,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-24": 0
+    }
   }
 ]

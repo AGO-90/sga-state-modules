@@ -5,6 +5,9 @@ repo: sga-state-modules # The name of this repository
 sites:
   - name: Products module
     url: https://products-module-java.herokuapp.com/api/v1/test/ping
+  
+  - name: Users module
+    url: https://users-module-go.herokuapp.com/api/v1/ping
     
     assignees:
       - AGO-90

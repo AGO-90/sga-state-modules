@@ -9,6 +9,9 @@ sites:
   - name: Users module
     url: https://users-module-go.herokuapp.com/api/v1/ping
     
+  - name: Storage module
+    url: https://storage-module-java.herokuapp.com/test/ping
+    
     assignees:
       - AGO-90
     

@@ -1,7 +1,7 @@
 url: https://products-module-java.herokuapp.com/api/v1/test/ping
 status: down
 code: 503
-responseTime: 53
-lastUpdated: 2022-09-26T23:29:11.344Z
+responseTime: 199
+lastUpdated: 2022-09-27T23:29:57.317Z
 startTime: Fri Feb 04 2022 04:19:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

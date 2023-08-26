@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/products-module-java.herokuapp.com.ico",
     "slug": "products-module",
     "status": "down",
-    "uptime": "33.08%",
+    "uptime": "33.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "15.49%",
     "time": 365,
-    "timeDay": 171,
-    "timeWeek": 187,
+    "timeDay": 50,
+    "timeWeek": 155,
     "timeMonth": 129,
-    "timeYear": 303,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2023-08-25": 17,
+      "2023-08-26": 16,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -327,8 +328,7 @@
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440
+      "2022-08-27": 1440
     }
   },
   {
@@ -337,18 +337,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/users-module-go.herokuapp.com.ico",
     "slug": "users-module",
     "status": "down",
-    "uptime": "28.97%",
+    "uptime": "28.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "15.49%",
     "time": 227,
-    "timeDay": 173,
-    "timeWeek": 194,
-    "timeMonth": 130,
-    "timeYear": 202,
+    "timeDay": 47,
+    "timeWeek": 161,
+    "timeMonth": 131,
+    "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-08-25": 17,
+      "2023-08-26": 16,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -659,8 +660,7 @@
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440
+      "2022-08-27": 1440
     }
   },
   {
@@ -669,18 +669,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/storage-module-java.herokuapp.com.ico",
     "slug": "storage-module",
     "status": "down",
-    "uptime": "28.94%",
+    "uptime": "28.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "15.49%",
     "time": 517,
-    "timeDay": 174,
-    "timeWeek": 190,
-    "timeMonth": 131,
+    "timeDay": 52,
+    "timeWeek": 158,
+    "timeMonth": 132,
     "timeYear": 407,
     "dailyMinutesDown": {
-      "2023-08-25": 17,
+      "2023-08-26": 16,
+      "2023-08-25": 1440,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -991,8 +992,7 @@
       "2022-08-30": 1440,
       "2022-08-29": 1440,
       "2022-08-28": 1440,
-      "2022-08-27": 1440,
-      "2022-08-26": 1440
+      "2022-08-27": 1440
     }
   }
 ]

@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/products-module-java.herokuapp.com.ico",
     "slug": "products-module",
     "status": "down",
-    "uptime": "32.79%",
+    "uptime": "32.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "15.49%",
     "time": 341,
-    "timeDay": 23,
-    "timeWeek": 239,
+    "timeDay": 49,
+    "timeWeek": 222,
     "timeMonth": 153,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2023-08-30": 17,
+      "2023-08-31": 17,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -327,8 +328,7 @@
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1097,
-      "2022-09-01": 41,
-      "2022-08-31": 1440
+      "2022-09-01": 41
     }
   },
   {
@@ -337,18 +337,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/users-module-go.herokuapp.com.ico",
     "slug": "users-module",
     "status": "down",
-    "uptime": "28.70%",
+    "uptime": "28.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "15.49%",
     "time": 222,
-    "timeDay": 23,
-    "timeWeek": 296,
+    "timeDay": 43,
+    "timeWeek": 276,
     "timeMonth": 167,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-08-30": 17,
+      "2023-08-31": 17,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -659,8 +660,7 @@
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1097,
-      "2022-09-01": 41,
-      "2022-08-31": 1440
+      "2022-09-01": 41
     }
   },
   {
@@ -669,18 +669,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/storage-module-java.herokuapp.com.ico",
     "slug": "storage-module",
     "status": "down",
-    "uptime": "28.67%",
+    "uptime": "28.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "15.49%",
     "time": 477,
-    "timeDay": 23,
-    "timeWeek": 243,
-    "timeMonth": 156,
+    "timeDay": 47,
+    "timeWeek": 224,
+    "timeMonth": 157,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2023-08-30": 17,
+      "2023-08-31": 17,
+      "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
@@ -991,8 +992,7 @@
       "2022-09-21": 1440,
       "2022-09-20": 1440,
       "2022-09-19": 1097,
-      "2022-09-01": 41,
-      "2022-08-31": 1440
+      "2022-09-01": 41
     }
   }
 ]

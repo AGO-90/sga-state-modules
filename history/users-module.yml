@@ -1,7 +1,7 @@
 url: https://users-module-go.herokuapp.com/api/v1/ping
 status: down
 code: 503
-responseTime: 315
-lastUpdated: 2025-03-01T23:05:53.196Z
+responseTime: 244
+lastUpdated: 2025-03-02T23:05:36.500Z
 startTime: 2022-03-08T23:21:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>

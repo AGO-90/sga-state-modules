@@ -1,7 +1,7 @@
 url: https://products-module-java.herokuapp.com/api/v1/test/ping
 status: down
 code: 404
-responseTime: 225
-lastUpdated: 2025-05-31T23:05:58.635Z
+responseTime: 329
+lastUpdated: 2025-06-01T23:06:00.166Z
 startTime: 2022-02-04T04:19:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>

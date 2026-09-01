@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/products-module-java.herokuapp.com.ico",
     "slug": "products-module",
     "status": "down",
-    "uptime": "11.24%",
+    "uptime": "11.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 258,
-    "timeDay": 122,
-    "timeWeek": 135,
-    "timeMonth": 183,
-    "timeYear": 246,
+    "timeDay": 179,
+    "timeWeek": 138,
+    "timeMonth": 188,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2026-08-31": 281,
+      "2026-09-01": 262,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -379,8 +380,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/users-module-go.herokuapp.com.ico",
     "slug": "users-module",
     "status": "down",
-    "uptime": "9.46%",
+    "uptime": "9.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 250,
-    "timeDay": 96,
-    "timeWeek": 169,
-    "timeMonth": 217,
+    "timeDay": 164,
+    "timeWeek": 175,
+    "timeMonth": 219,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2026-08-31": 281,
+      "2026-09-01": 262,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -763,8 +764,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   },
   {
@@ -779,12 +779,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 245,
-    "timeDay": 105,
-    "timeWeek": 137,
-    "timeMonth": 224,
+    "timeDay": 174,
+    "timeWeek": 139,
+    "timeMonth": 228,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-08-31": 281,
+      "2026-09-01": 262,
+      "2026-08-31": 1440,
       "2026-08-30": 1440,
       "2026-08-29": 1440,
       "2026-08-28": 1440,
@@ -1147,8 +1148,7 @@
       "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
-      "2025-09-02": 1440,
-      "2025-09-01": 1440
+      "2025-09-02": 1440
     }
   }
 ]

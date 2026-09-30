@@ -11,12 +11,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 253,
-    "timeDay": 38,
-    "timeWeek": 202,
-    "timeMonth": 210,
+    "timeDay": 296,
+    "timeWeek": 167,
+    "timeMonth": 212,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2026-09-29": 303,
+      "2026-09-30": 290,
+      "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
@@ -379,8 +380,7 @@
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
-      "2025-10-01": 1440,
-      "2025-09-30": 1440
+      "2025-10-01": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/users-module-go.herokuapp.com.ico",
     "slug": "users-module",
     "status": "down",
-    "uptime": "9.29%",
+    "uptime": "9.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 249,
-    "timeDay": 34,
-    "timeWeek": 274,
-    "timeMonth": 230,
-    "timeYear": 240,
+    "time": 248,
+    "timeDay": 22,
+    "timeWeek": 197,
+    "timeMonth": 223,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2026-09-29": 303,
+      "2026-09-30": 290,
+      "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
@@ -763,8 +764,7 @@
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
-      "2025-10-01": 1440,
-      "2025-09-30": 1440
+      "2025-10-01": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/storage-module-java.herokuapp.com.ico",
     "slug": "storage-module",
     "status": "down",
-    "uptime": "9.28%",
+    "uptime": "9.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 238,
-    "timeDay": 305,
+    "timeDay": 290,
     "timeWeek": 272,
-    "timeMonth": 199,
-    "timeYear": 226,
+    "timeMonth": 200,
+    "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-09-29": 303,
+      "2026-09-30": 290,
+      "2026-09-29": 1440,
       "2026-09-28": 1440,
       "2026-09-27": 1440,
       "2026-09-26": 1440,
@@ -1147,8 +1148,7 @@
       "2025-10-04": 1440,
       "2025-10-03": 1440,
       "2025-10-02": 1440,
-      "2025-10-01": 1440,
-      "2025-09-30": 1440
+      "2025-10-01": 1440
     }
   }
 ]
